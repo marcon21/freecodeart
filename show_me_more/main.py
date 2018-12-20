@@ -2,6 +2,7 @@ import pygame
 from pygame.locals import *
 import random
 
+
 NUM_OF_POINTS = 1024
 POINT_SIZE = 1
 
